@@ -1,3 +1,1 @@
-image:
-  file: .devcontainer/Dockerfile
-  context: .devcontainer
+image: gitpod/workspace-dotnet
